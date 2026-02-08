@@ -4,7 +4,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 
 # ⚠️ Hardcode your API key here
-API_KEY = "f06a4f68c7995fdc2217ce0722dd3c49"
+API_KEY = " Your API key here "
 
 
 # ---------------- Weather Function ----------------
@@ -98,3 +98,4 @@ result_label = tk.Label(
 result_label.place(relx=0.5, rely=0.3, anchor="n")
 
 root.mainloop()
+
